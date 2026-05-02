@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-- 🚀 DevOps Engineer with **3+ years of experience**
+- 🚀 DevOps Engineer
 - ☁️ Hands-on with **AWS, CI/CD, Infrastructure as Code**
 - 🔧 Strong in **Automation, Deployment & Monitoring**
 - 📈 Focused on building **scalable & cost-optimized systems**
@@ -65,13 +65,6 @@
 ✔️ Infrastructure as Code (Terraform, Ansible)  
 ✔️ Cost optimization mindset  
 ✔️ Real-world project experience (not just theory)
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: **shwetabharambe2196@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/shweta-bharambe
 
 ---
 
