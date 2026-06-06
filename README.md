@@ -54,8 +54,8 @@
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" width="50"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/></td>
 </tr>
 </table>
 
